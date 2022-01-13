@@ -1,0 +1,32 @@
+{"type":["init_ps"],"time":["2021-11-02 18:31:57"],"user":["SiriusBlackx"],"umph":[1635874317.8448],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:31:57"],"user":["SiriusBlackx"],"umph":[1635874317.8978],"ok":[true],"chunk":[1],"ex":[1],"e.ind":[0],"code":["library(tidyverse)\nlibrary(pander)\nlibrary(sf)\nlibrary(gganimate)\nlibrary(ggrepel)\nlibrary(skimr)\nlibrary(RColorBrewer)"],"message":[""]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:31:58"],"user":["SiriusBlackx"],"umph":[1635874318.1501],"ok":[false],"chunk":[2],"ex":[1],"e.ind":[0],"code":[".PH_.__ <- read_csv(\".PH_.__\")\n\n# enter your code here ...\n"],"message":["evaluation error in \n  ____ <- read_csv(\"____\")\n  Error: '____' does not exist in current working directory ('C:/Users/emoli/Documents/GitHub/21-22/problem-sets/ps3').\n"]}
+,
+{"type":["check_ps"],"time":["2021-11-02 18:32:05"],"user":["SiriusBlackx"],"umph":[1635874325.2846],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:32:05"],"user":["SiriusBlackx"],"umph":[1635874325.2946],"ok":[false],"chunk":[2],"ex":[1],"e.ind":[0],"code":[".PH_.__ <- read_csv(\".PH_.__\")\n\n# enter your code here ...\n"],"message":["evaluation error in \n  ____ <- read_csv(\"____\")\n  Error: '____' does not exist in current working directory ('C:/Users/emoli/Documents/GitHub/21-22/problem-sets/ps3').\n"]}
+,
+{"type":["check_ps"],"time":["2021-11-02 18:34:02"],"user":["SiriusBlackx"],"umph":[1635874442.5993],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:34:02"],"user":["SiriusBlackx"],"umph":[1635874442.6114],"ok":[false],"chunk":[2],"ex":[1],"e.ind":[0],"code":[".PH_.__ <- read_csv(\".PH_.__\")\n\n# enter your code here ...\n"],"message":["evaluation error in \n  ____ <- read_csv(\"____\")\n  Error: '____' does not exist in current working directory ('C:/Users/emoli/Documents/GitHub/21-22/problem-sets/ps3').\n"]}
+,
+{"type":["hint"],"time":["2021-11-02 18:34:32"],"user":["SiriusBlackx"],"umph":[1635874472.7689],"ok":[true],"chunk":[2],"ex":[1],"e.ind":[0]}
+,
+{"type":["check_ps"],"time":["2021-11-02 18:37:26"],"user":["SiriusBlackx"],"umph":[1635874646.0769],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:37:26"],"user":["SiriusBlackx"],"umph":[1635874646.272],"ok":[true],"chunk":[2],"ex":[1],"e.ind":[0],"code":["eu_makro <- read_csv(\"data/EU_Makro.csv\")\n\n# enter your code here ...\n"],"message":[""]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:37:26"],"user":["SiriusBlackx"],"umph":[1635874646.28],"ok":[false],"chunk":[3],"ex":[1],"e.ind":[1],"code":["\n# enter your code here ...\n"],"message":["\nYou have not yet made an assignment to ueberblick in chunk 1___Deskriptive_Anal_b."]}
+,
+{"type":["check_ps"],"time":["2021-11-02 18:39:22"],"user":["SiriusBlackx"],"umph":[1635874762.5674],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2021-11-02 18:39:22"],"user":["SiriusBlackx"],"umph":[1635874762.6545],"ok":[false],"chunk":[3],"ex":[1],"e.ind":[1],"code":["ueberblick <- skim()\n# enter your code here ...\n"],"message":["\nYou have not made a correct assignment to ueberblick in chunk 1___Deskriptive_Anal_b."]}
+,
+{"type":["check_ps"],"time":["2021-11-26 12:58:51"],"user":["SiriusBlackx"],"umph":[1637927931.6507],"ok":[true]}
+,
+{"type":["check_ps"],"time":["2021-11-26 12:59:09"],"user":["SiriusBlackx"],"umph":[1637927949.1025],"ok":[true]}
+,
+{"type":["init_ps"],"time":["2021-11-26 13:04:00"],"user":["SiriusBlackx"],"umph":[1637928240.6994],"ok":[true]}
+,

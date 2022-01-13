@@ -1,7 +1,7 @@
 
 ```{r 'check_ps', include=FALSE}
 
-user.name = 'ENTER A USER NAME HERE' # set to your user name
+user.name = 'SiriusBlackx' # set to your user name
 
 # To check your problem set, run the 
 # RStudio Addin 'Check Problemset'
@@ -65,7 +65,7 @@ library(RColorBrewer)
 a) Im ersten Schritt laden wir die zur Verfuegung stehenden Daten. Laden Sie die im Unterordner "Daten" bereitgestellten Datei `EU_Makro.csv` in R ein. Ergaenzen Sie hierfuer unten stehende Code-Zeile.
 
 ```{r "1___Deskriptive_Anal_a"}
-____ <- read_csv("____")
+eu_makro <- read_csv("data/EU_Makro.csv")
 
 # enter your code here ...
 
@@ -76,7 +76,7 @@ Nun koennen Sie mit dem Paket `skimr` einen guten ersten Einblick in ihre Daten 
 b) Erstellen Sie hierfuer eine Tabelle, welche alle Variablen von `eu_makro` enthaelt. Nutzen Sie hierfuer den Befehl `skim()` und speichern Sie ihre Analyse in `ueberblick` ab. Geben Sie anschliessend `ueberblick` aus.
 
 ```{r "1___Deskriptive_Anal_b"}
-
+ueberblick <- skim()
 # enter your code here ...
 
 ```
